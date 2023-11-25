@@ -27,7 +27,7 @@ The staff portal is used for all staff members in the SDSRP Management Team, the
 To explore and contribute to our projects, follow these steps:
 
 1. **Explore Repositories:**
-   - Browse our repositories at [SDSRP GitHub](https://github.com/sdsrp).
+   - Browse our repositories at [SDSRP GitHub](https://github.com/sdsrp-public).
 
 2. **Clone a Repository:**
    ```bash
